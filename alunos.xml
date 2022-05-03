@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TURMA>
+    <ALUNO>
+        <NOME>Manoel</NOME>
+        <IDADE>21</IDADE>
+        <MEDIA>10</MEDIA>
+    </ALUNO>
+
+    <ALUNO>
+        <NOME>Victor</NOME>
+        <IDADE>21</IDADE>
+        <MEDIA>8.5</MEDIA>
+    </ALUNO>
+
+    <ALUNO>
+        <NOME>Eliza</NOME>
+        <IDADE>38</IDADE>
+        <MEDIA>9.5</MEDIA>
+    </ALUNO>
+
+    <ALUNO>
+        <NOME>Ana</NOME>
+        <IDADE>21</IDADE>
+        <MEDIA>6.5</MEDIA>
+    </ALUNO>
+
+    <ALUNO>
+        <NOME>Fernando</NOME>
+        <IDADE>25</IDADE>
+        <MEDIA>9.5</MEDIA>
+    </ALUNO>
+
+    <ALUNO>
+        <NOME>Pedro</NOME>
+        <IDADE>24</IDADE>
+        <MEDIA>10</MEDIA>
+    </ALUNO>
+</TURMA>
